@@ -67,19 +67,6 @@ Acredito que a evolução profissional acontece por meio da prática, da curiosi
 Tenho interesse em tecnologia internacional, especialmente no ecossistema de inovação da China, e pretendo explorar oportunidades de intercâmbio acadêmico e profissional.
 
 
-## 📊 Meu GitHub
-
-<p align="center">
-  <img
-    src="https://github.com/MurielScharcz001"
-    alt="Estatísticas do GitHub"
-    height="180"
-  />
-  <img
-  />
-</p>
-
-
 ## 📫 Vamos nos conectar?
 
 <p align="left">
