@@ -71,14 +71,11 @@ Tenho interesse em tecnologia internacional, especialmente no ecossistema de ino
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=muriel-scharcz&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github.com/MurielScharcz001"
     alt="Estatísticas do GitHub"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriel-scharcz&layout=compact&theme=github_dark&hide_border=true"
-    alt="Linguagens mais utilizadas"
-    height="180"
   />
 </p>
 
