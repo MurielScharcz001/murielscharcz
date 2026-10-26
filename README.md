@@ -66,12 +66,22 @@ Acredito que a evolução profissional acontece por meio da prática, da curiosi
 
 Tenho interesse em tecnologia internacional, especialmente no ecossistema de inovação da China, e pretendo explorar oportunidades de intercâmbio acadêmico e profissional.
 
+
 ## 📊 Meu GitHub
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muriel-scharcz&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriel-scharcz&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=muriel-scharcz&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Estatísticas do GitHub"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriel-scharcz&layout=compact&theme=github_dark&hide_border=true"
+    alt="Linguagens mais utilizadas"
+    height="180"
+  />
 </p>
+
 
 ## 📫 Vamos nos conectar?
 
